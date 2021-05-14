@@ -107,6 +107,7 @@ We may update this privacy notice from time to time. The updated version will be
 If you have questions or comments about this notice, you may email us at poliwo.mx@gmail.com
 14. HOW CAN YOU REVIEW, UPDATE, OR DELETE THE DATA WE COLLECT FROM YOU?     
 Based on the applicable laws of your country, you may have the right to request access to the personal information we collect from you, change that information, or delete it in some circumstances. To request to review, update, or delete your personal information, please submit a request form by clicking here.
+
 15. EVENT SCHOLARSHIP. For the award of scholarships in monetary value, the prize will only be given to those over 21 or 18 years old, depending on the country where the winner lives. The winner will be contacted by email with the account poliwo.mx@gmail.com to arrange the delivery of the scholarship, it will be necessary that the winners have a PayPal account, to facilitate the process.
 
 This privacy policy was created using Termly’s Privacy Policy Generator.
