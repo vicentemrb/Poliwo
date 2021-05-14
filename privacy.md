@@ -21,6 +21,7 @@ TABLE OF CONTENTS
 13. HOW CAN YOU CONTACT US ABOUT THIS NOTICE?
 14. HOW CAN YOU REVIEW, UPDATE OR DELETE THE DATA WE COLLECT FROM YOU?
 15. EVENT SCHOLARSHIP.
+
 1. WHAT INFORMATION DO WE COLLECT?
 Personal information you disclose to us
 In Short:  We collect personal information that you provide to us.
